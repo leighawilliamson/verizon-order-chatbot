@@ -9,7 +9,7 @@ applications:
 - services:
    - Verizon-conversation
    - cloudantNoSQLDB-service
-  name: conversation-text-bot
+  name: verizon-orderstatus-chatbot
   command: npm start
   path: .
   memory: 512M
